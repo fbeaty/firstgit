@@ -1,2 +1,2 @@
 # firstgit
-Learning how to git
+Practicing typing in a repository in git
